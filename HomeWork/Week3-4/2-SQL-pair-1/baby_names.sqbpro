@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/lamz/Downloads/baby_names.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="1184"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,5:mainnames"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">-- quary 1 -- 
+SELECT * from names LIMIT 10 ;
+-- quary 2 -- 
+SELECT name, frequency FROM names LIMIT 5;
+-- quary 3 -- 
+SELECT * FROM names WHERE name = 'John' AND  state = 'WA' AND year &gt; 2010;
+-- quary 4 -- 
+SELECT  sum(frequency)  FROM names WHERE name = 'John';
+-- quary 5 -- 
+SELECT  state, year, MAX(frequency) FROM names WHERE name = 'John' AND gender = 'F';
+-- quary 6 -- 
+SELECT * FROM names WHERE gender = 'F' and state = 'NY' and year = 2000 ORDER by frequency DESC LIMIT 3 ;
+-- quary 7 -- 
+SELECT sum(frequency) FROM names WHERE year ='1951';
+-- quary 8 -- 
+SELECT  state, year, sum(frequency) FROM names WHERE name = 'John' GROUP by year AND state;
+-- quary 9 -- 
+SELECT  state, year, count(name) FROM names WHERE gender = 'F' GROUP by year,state;
+
+-- quary 10 -- 
+SELECT  count(*) FROM names WHERE year BETWEEN 2000 AND 2002;
+
+-- quary 11 -- 
+SELECT count(DISTINCT name) FROM names WHERE name like &quot;%a&quot;;
+
+-- quary 12 -- 
+PRAGMA table_info(regions);
+
+-- quary 13 -- 
+SELECT (DISTINCT region) FROM regions;
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
