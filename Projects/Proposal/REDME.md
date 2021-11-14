@@ -9,7 +9,7 @@
 -I use date base from Commercial record in 2020  to know how many person orientation to buy online market .
 
 
-### Tools
+### Tools:
  -Open saudi Data
 
  -SQL Coomiend, Python Languges
@@ -18,7 +18,8 @@
 
  -Python Librarys 
  
- ### Data Base 
+ ### Data Base :
+ 
  The Data base About commeriacl record in  years 2020 
  here link : <a href='https://data.gov.sa/Data/ar/dataset/commercial-register-2020/resource/0205953d-f966-4b52-8390-846ba33f4229'>Click here </a>
  
