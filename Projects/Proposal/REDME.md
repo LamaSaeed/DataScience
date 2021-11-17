@@ -1,4 +1,4 @@
-# Commercial Record in Saudi Arbia 
+# E-Commerce in Saudi Arabie 2020
 
 
 
@@ -7,6 +7,12 @@
 
 ### Data Description:
 -I use date base from Commercial record in 2020  to know how many person orientation to buy online market .
+
+1-What are the most popular cities for e-commerce?
+
+2-Did the Saudis turn to e-commerce at the time of covied-19?
+
+3-The Riyadh city is the most start-up city in sadui arabia?
 
 
 ### Tools:
