@@ -1,13 +1,13 @@
 # Bitcoin earnings per year 
 
 
-<hr>
-
-## qaustions & neeed : 
 
 
+## Qaustions & neeed : 
 
-## Data :
+
+
+## Data:
 
 
 
