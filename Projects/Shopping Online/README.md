@@ -24,11 +24,13 @@
   # Tools
 
 
-      <li> Pandas & Numpy </li>
-       <li> Matplotlib  </li>
-       <li> Seaborn &  Sklearn </li>
-         <li> jupyter note book  </li>
+          1-  Pandas & Numpy 
+          2-  Matplotlib  
+         3-  Seaborn &  Sklearn 
+        4-  jupyter note book  
          
        
         
-            
+    # My team 
+    
+      Sara alrashidi
