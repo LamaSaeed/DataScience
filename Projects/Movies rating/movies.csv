@@ -1,0 +1,1001 @@
+,movie,year,time_minute,imdb_rating,vote,gross_earning
+0,Dune,(2021),155 min,8.2,"381,062",-
+1,Home Alone,(1990),103 min,7.6,"521,914",$285.76M
+2,Jai Bhim,(2021),164 min,9.4,"155,157",-
+3,Ghostbusters,(1984),105 min,7.8,"386,902",$238.63M
+4,Harry Potter and the Sorcerer's Stone,(2001),152 min,7.6,"715,124",$317.58M
+5,The Matrix,(1999),136 min,8.7,"1,786,524",$171.48M
+6,Avengers: Endgame,(2019),181 min,8.4,"970,551",$858.37M
+7,Die Hard,(1988),132 min,8.2,"830,114",$83.01M
+8,The Shawshank Redemption,(1994),142 min,9.3,"2,503,170",$28.34M
+9,Knives Out,(2019),130 min,7.9,"555,694",$165.36M
+10,Little Women,(2019),135 min,7.8,"173,984",$108.10M
+11,The Godfather,(1972),175 min,9.2,"1,725,532",$134.97M
+12,Parasite,(2019),132 min,8.6,"690,008",$53.37M
+13,Interstellar,(2014),169 min,8.6,"1,651,265",$188.02M
+14,A Christmas Story,(1983),93 min,7.9,"139,000",$20.61M
+15,Klaus,(2019),96 min,8.2,"125,657",-
+16,Titanic,(1997),194 min,7.8,"1,107,558",$659.33M
+17,Joker,(2019),122 min,8.4,"1,105,974",$335.45M
+18,Once Upon a Time... In Hollywood,(2019),161 min,7.6,"655,019",$142.50M
+19,The Wolf of Wall Street,(2013),180 min,8.2,"1,288,348",$116.90M
+20,The Lord of the Rings: The Fellowship of the Ring,(2001),178 min,8.8,"1,750,627",$315.54M
+21,The Dark Knight,(2008),152 min,9.0,"2,452,765",$534.86M
+22,Blade Runner 2049,(2017),164 min,8.0,"517,991",$92.05M
+23,Inception,(2010),148 min,8.8,"2,200,999",$292.58M
+24,It's a Wonderful Life,(1946),130 min,8.6,"427,436",-
+25,The Princess Bride,(1987),98 min,8.1,"412,984",$30.86M
+26,Avengers: Infinity War,(2018),149 min,8.4,"948,592",$678.82M
+27,Spider-Man: Into the Spider-Verse,(2018),117 min,8.4,"442,609",$190.24M
+28,Harry Potter and the Goblet of Fire,(2005),157 min,7.7,"582,478",$290.01M
+29,Zack Snyder's Justice League,(2021),242 min,8.1,"348,988",-
+30,Goodfellas,(1990),146 min,8.7,"1,083,852",$46.84M
+31,Pulp Fiction,(1994),154 min,8.9,"1,931,592",$107.93M
+32,Pride & Prejudice,(2005),129 min,7.8,"277,582",$38.41M
+33,Fight Club,(1999),139 min,8.8,"1,969,231",$37.03M
+34,Alien,(1979),117 min,8.4,"833,355",$78.90M
+35,Harry Potter and the Deathly Hallows: Part 2,(2011),130 min,8.1,"814,117",$381.01M
+36,Gladiator,(2000),155 min,8.5,"1,416,258",$187.71M
+37,Apocalypse Now,(1979),147 min,8.4,"636,715",$83.47M
+38,1917,(2019),119 min,8.3,"511,913",$159.23M
+39,Wind River,(2017),107 min,7.7,"229,859",$33.80M
+40,Casino Royale,(2006),144 min,8.0,"630,334",$167.45M
+41,The Green Mile,(1999),189 min,8.6,"1,218,505",$136.80M
+42,The Gentlemen,(2019),113 min,7.8,"289,270",-
+43,Gone Girl,(2014),149 min,8.1,"921,904",$167.77M
+44,Deadpool,(2016),108 min,8.0,"963,446",$363.07M
+45,Thor: Ragnarok,(2017),130 min,7.9,"661,640",$315.06M
+46,Kingsman: The Secret Service,(2014),129 min,7.7,"624,020",$128.26M
+47,Inglourious Basterds,(2009),153 min,8.3,"1,351,593",$120.54M
+48,The Girl with the Dragon Tattoo,(2011),158 min,7.8,"445,370",$102.52M
+49,Se7en,(1995),127 min,8.6,"1,537,635",$100.13M
+50,Léon: The Professional,(1994),110 min,8.5,"1,095,550",$19.50M
+51,Guardians of the Galaxy,(2014),121 min,8.0,"1,107,710",$333.18M
+52,Prisoners,(2013),153 min,8.1,"650,937",$61.00M
+53,Forrest Gump,(1994),142 min,8.8,"1,932,099",$330.25M
+54,Schindler's List,(1993),195 min,8.9,"1,280,883",$96.90M
+55,The Goonies,(1985),114 min,7.8,"258,965",$61.50M
+56,Django Unchained,(2012),165 min,8.4,"1,447,920",$162.81M
+57,Harry Potter and the Prisoner of Azkaban,(2004),142 min,7.9,"589,077",$249.36M
+58,American Psycho,(2000),101 min,7.6,"536,843",$15.07M
+59,Boogie Nights,(1997),155 min,7.9,"253,037",$26.40M
+60,All That Jazz,(1979),123 min,7.9,"30,334",$37.82M
+61,Jojo Rabbit,(2019),108 min,7.9,"347,901",$0.35M
+62,Blade Runner,(1982),117 min,8.1,"731,501",$32.87M
+63,Skyfall,(2012),143 min,7.8,"671,828",$304.36M
+64,Heat,(1995),170 min,8.2,"616,365",$67.44M
+65,Requiem for a Dream,(2000),102 min,8.3,"802,824",$3.64M
+66,No Country for Old Men,(2007),122 min,8.1,"913,326",$74.28M
+67,Deadpool 2,(2018),119 min,7.7,"529,281",$324.59M
+68,Bohemian Rhapsody,(2018),134 min,7.9,"497,225",$216.43M
+69,Sicario,(2015),121 min,7.6,"403,305",$46.89M
+70,Call Me by Your Name,(2017),132 min,7.9,"243,681",$18.10M
+71,The Father,(I) (2020),97 min,8.3,"109,758",-
+72,Jurassic Park,(1993),127 min,8.1,"919,835",$402.45M
+73,Shutter Island,(2010),138 min,8.2,"1,215,099",$128.01M
+74,Dazed and Confused,(1993),102 min,7.6,"175,877",$7.99M
+75,L.A. Confidential,(1997),138 min,8.2,"558,211",$64.62M
+76,Saving Private Ryan,(1998),169 min,8.6,"1,308,231",$216.54M
+77,Mad Max: Fury Road,(2015),120 min,8.1,"940,741",$154.06M
+78,The Departed,(2006),151 min,8.5,"1,254,379",$132.38M
+79,Back to the Future,(1985),116 min,8.5,"1,127,117",$210.61M
+80,The Avengers,(2012),143 min,8.0,"1,321,091",$623.28M
+81,American Beauty,(1999),122 min,8.3,"1,112,963",$130.10M
+82,Avatar,(2009),162 min,7.8,"1,167,106",$760.51M
+83,Hamilton,(2020),160 min,8.4,"77,824",-
+84,True Grit,(2010),110 min,7.6,"326,373",$171.24M
+85,The Prestige,(2006),130 min,8.5,"1,260,082",$53.09M
+86,The Lord of the Rings: The Return of the King,(2003),201 min,8.9,"1,729,300",$377.85M
+87,The Grand Budapest Hotel,(2014),99 min,8.1,"756,783",$59.10M
+88,Aliens,(1986),137 min,8.3,"685,672",$85.16M
+89,Good Will Hunting,(1997),126 min,8.3,"911,942",$138.43M
+90,A Clockwork Orange,(1971),136 min,8.3,"793,346",$6.21M
+91,The Nightmare Before Christmas,(1993),76 min,8.0,"319,247",$75.08M
+92,CODA,(2021),111 min,8.1,"26,872",-
+93,Harry Potter and the Deathly Hallows: Part 1,(2010),146 min,7.7,"510,467",$295.98M
+94,Iron Man,(2008),126 min,7.9,"996,146",$318.41M
+95,Harry Potter and the Half-Blood Prince,(2009),153 min,7.6,"506,985",$301.96M
+96,Green Book,(2018),130 min,8.2,"437,425",$85.08M
+97,Hacksaw Ridge,(2016),139 min,8.1,"477,139",$67.21M
+98,The Bourne Identity,(2002),119 min,7.9,"528,800",$121.66M
+99,Arrival,(II) (2016),116 min,7.9,"650,257",$100.55M
+100,There Will Be Blood,(2007),158 min,8.2,"552,140",$40.22M
+101,The Shining,(1980),146 min,8.4,"957,779",$44.02M
+102,The Irishman,(2019),209 min,7.8,"357,829",$7.00M
+103,The Godfather: Part II,(1974),202 min,9.0,"1,197,364",$57.30M
+104,Casablanca,(1942),102 min,8.5,"547,936",$1.02M
+105,The Fifth Element,(1997),126 min,7.7,"453,947",$63.54M
+106,The Silence of the Lambs,(1991),118 min,8.6,"1,348,324",$130.74M
+107,The Wizard of Oz,(1939),102 min,8.0,"382,298",$2.08M
+108,Moana,(I) (2016),107 min,7.6,"302,872",$248.76M
+109,Ex Machina,(2014),108 min,7.7,"509,847",$25.44M
+110,Pirates of the Caribbean: The Curse of the Black Pearl,(2003),143 min,8.0,"1,053,313",$305.41M
+111,The Revenant,(2015),156 min,8.0,"753,464",$183.64M
+112,Star Wars: Episode IV - A New Hope,(1977),121 min,8.6,"1,289,716",$322.74M
+113,Another Round,(2020),117 min,7.8,"120,607",-
+114,Atonement,(2007),123 min,7.8,"265,997",$50.93M
+115,The Dark Knight Rises,(2012),164 min,8.4,"1,596,353",$448.14M
+116,Zodiac,(2007),157 min,7.7,"505,723",$33.08M
+117,Whiplash,(2014),106 min,8.5,"776,465",$13.09M
+118,The Hobbit: An Unexpected Journey,(2012),169 min,7.8,"787,238",$303.00M
+119,Cowboy Bebop: The Movie,(2001),115 min,7.9,"46,487",$1.00M
+120,The Big Short,(2015),130 min,7.8,"397,364",$70.26M
+121,Inside Man,(2006),129 min,7.6,"357,284",$88.51M
+122,A Star Is Born,(2018),136 min,7.6,"361,030",$215.29M
+123,The Martian,(2015),144 min,8.0,"806,106",$228.43M
+124,Come and See,(1985),142 min,8.3,"70,083",-
+125,12 Angry Men,(1957),96 min,9.0,"739,341",$4.36M
+126,Willy Wonka & the Chocolate Factory,(1971),100 min,7.8,"190,944",$4.00M
+127,The Hangover,(2009),100 min,7.7,"750,070",$277.32M
+128,Dunkirk,(2017),106 min,7.8,"606,926",$188.37M
+129,Black Swan,(2010),108 min,8.0,"730,827",$106.95M
+130,Tombstone,(1993),130 min,7.8,"138,116",$56.51M
+131,Mulholland Drive,(2001),147 min,7.9,"341,062",$7.22M
+132,Taxi Driver,(1976),114 min,8.2,"771,201",$28.26M
+133,Miracle on 34th Street,(1947),96 min,7.9,"45,060",$2.65M
+134,Train to Busan,(2016),118 min,7.6,"196,807",$2.13M
+135,Snatch,(2000),102 min,8.3,"819,526",$30.33M
+136,Moneyball,(2011),133 min,7.6,"397,549",$75.61M
+137,Soul,(2020),100 min,8.1,"287,863",-
+138,Stand by Me,(1986),89 min,8.1,"383,549",$52.29M
+139,Edward Scissorhands,(1990),105 min,7.9,"467,449",$56.36M
+140,The Big Lebowski,(1998),117 min,8.1,"773,507",$17.50M
+141,Eternal Sunshine of the Spotless Mind,(2004),108 min,8.3,"957,756",$34.40M
+142,Coco,(I) (2017),105 min,8.4,"444,835",$209.73M
+143,Blue Is the Warmest Colour,(2013),180 min,7.7,"146,117",$2.20M
+144,Guardians of the Galaxy Vol. 2,(2017),136 min,7.6,"622,267",$389.81M
+145,Scarface,(1983),170 min,8.3,"787,997",$45.60M
+146,Catch Me If You Can,(2002),141 min,8.1,"902,550",$164.62M
+147,Logan,(2017),137 min,8.1,"700,095",$226.28M
+148,Once Upon a Time in America,(1984),229 min,8.3,"333,711",$5.32M
+149,The Hateful Eight,(2015),168 min,7.8,"559,744",$54.12M
+150,Oldboy,(2003),120 min,8.4,"547,934",$0.71M
+151,The Lord of the Rings: The Two Towers,(2002),179 min,8.7,"1,563,234",$342.55M
+152,Marriage Story,(2019),137 min,7.9,"279,961",$2.00M
+153,The Intouchables,(2011),112 min,8.5,"807,043",$13.18M
+154,Watchmen,(2009),162 min,7.6,"530,212",$107.51M
+155,Captain America: Civil War,(2016),147 min,7.8,"721,336",$408.08M
+156,Children of Men,(2006),109 min,7.9,"483,774",$35.55M
+157,American Gangster,(2007),157 min,7.8,"410,721",$130.16M
+158,Get Out,(I) (2017),104 min,7.7,"540,440",$176.04M
+159,Mission: Impossible - Fallout,(2018),147 min,7.7,"311,808",$220.16M
+160,Spirited Away,(2001),125 min,8.6,"705,071",$10.06M
+161,The Usual Suspects,(1995),106 min,8.5,"1,038,367",$23.34M
+162,Into the Wild,(2007),148 min,8.1,"599,941",$18.35M
+163,2001: A Space Odyssey,(1968),149 min,8.3,"636,835",$56.95M
+164,300,(2006),117 min,7.6,"762,681",$210.61M
+165,The Social Network,(2010),120 min,7.7,"662,492",$96.96M
+166,The Truman Show,(1998),103 min,8.1,"1,002,741",$125.62M
+167,Terminator 2: Judgment Day,(1991),137 min,8.5,"1,043,830",$204.84M
+168,Batman Begins,(2005),140 min,8.2,"1,374,890",$206.85M
+169,The Lion King,(1994),88 min,8.5,"995,066",$422.78M
+170,V for Vendetta,(2005),132 min,8.1,"1,077,949",$70.51M
+171,"Lock, Stock and Two Smoking Barrels",(1998),107 min,8.2,"560,206",$3.90M
+172,Ford v Ferrari,(2019),152 min,8.1,"345,073",$117.62M
+173,One Flew Over the Cuckoo's Nest,(1975),133 min,8.7,"962,960",$112.00M
+174,The Fall,(2006),117 min,7.9,"110,308",$2.28M
+175,Braveheart,(1995),178 min,8.3,"996,470",$75.60M
+176,La La Land,(2016),128 min,8.0,"545,891",$151.10M
+177,The Muppet Christmas Carol,(1992),85 min,7.7,"53,367",$27.28M
+178,Almost Famous,(2000),122 min,7.9,"267,230",$32.53M
+179,Memento,(2000),113 min,8.4,"1,180,411",$25.54M
+180,The Notebook,(2004),123 min,7.8,"545,953",$81.00M
+181,Drive,(I) (2011),100 min,7.8,"602,072",$35.06M
+182,The Imitation Game,(2014),114 min,8.0,"726,508",$91.13M
+183,Dead Poets Society,(1989),128 min,8.1,"455,730",$95.86M
+184,Her,(2013),126 min,8.0,"574,871",$25.57M
+185,Apollo 13,(I) (1995),140 min,7.6,"283,620",$173.84M
+186,The Blind Side,(2009),129 min,7.6,"312,293",$255.96M
+187,The Thing,(1982),109 min,8.1,"398,573",$13.78M
+188,The Hunt,(2012),115 min,8.3,"308,540",$0.69M
+189,Donnie Darko,(2001),113 min,8.0,"770,340",$1.48M
+190,About Time,(I) (2013),123 min,7.8,"327,199",$15.32M
+191,Ferris Bueller's Day Off,(1986),103 min,7.8,"339,513",$70.14M
+192,Fargo,(1996),98 min,8.1,"649,372",$24.61M
+193,Ratatouille,(2007),111 min,8.0,"677,254",$206.45M
+194,Pan's Labyrinth,(2006),118 min,8.2,"644,072",$37.63M
+195,The Pianist,(2002),150 min,8.5,"781,002",$32.57M
+196,"The Good, the Bad and the Ugly",(1966),178 min,8.8,"725,224",$6.10M
+197,The Incredibles,(2004),115 min,8.0,"687,670",$261.44M
+198,Indiana Jones and the Raiders of the Lost Ark,(1981),115 min,8.4,"925,071",$248.16M
+199,Captain Fantastic,(2016),118 min,7.9,"208,130",$5.88M
+200,"Three Billboards Outside Ebbing, Missouri",(2017),115 min,8.1,"473,522",$54.51M
+201,Kill Bill: Vol. 1,(2003),111 min,8.1,"1,057,984",$70.10M
+202,The Bourne Supremacy,(2004),108 min,7.7,"449,960",$176.24M
+203,Moonrise Kingdom,(2012),94 min,7.8,"335,464",$45.51M
+204,Rogue One: A Star Wars Story,(2016),133 min,7.8,"587,514",$532.18M
+205,Hidden Figures,(2016),127 min,7.9,"215,046",$169.61M
+206,The Handmaiden,(2016),145 min,8.1,"131,391",$2.01M
+207,Sardar Udham,(2021),164 min,8.8,"31,590",-
+208,Star Wars: Episode VII - The Force Awakens,(2015),138 min,7.8,"892,040",$936.66M
+209,Nightcrawler,(2014),117 min,7.8,"504,106",$32.38M
+210,Silver Linings Playbook,(2012),122 min,7.7,"685,761",$132.09M
+211,Star Trek,(2009),127 min,7.9,"592,751",$257.73M
+212,City of God,(2002),130 min,8.6,"727,807",$7.56M
+213,The Perks of Being a Wallflower,(2012),103 min,7.9,"486,633",$17.74M
+214,True Romance,(1993),119 min,7.9,"218,971",$12.28M
+215,Fantastic Mr. Fox,(2009),87 min,7.9,"216,833",$21.00M
+216,Cast Away,(2000),143 min,7.8,"560,235",$233.63M
+217,Life Is Beautiful,(1997),116 min,8.6,"659,635",$57.60M
+218,Sin City,(2005),124 min,8.0,"752,940",$74.10M
+219,Blue Velvet,(1986),120 min,7.7,"191,130",$8.55M
+220,The Hobbit: The Desolation of Smaug,(2013),161 min,7.8,"627,882",$258.37M
+221,A Beautiful Mind,(2001),135 min,8.2,"889,896",$170.74M
+222,The Terminator,(1984),107 min,8.0,"826,003",$38.40M
+223,JFK,(1991),189 min,8.0,"149,972",$70.41M
+224,Full Metal Jacket,(1987),116 min,8.3,"708,313",$46.36M
+225,Spotlight,(I) (2015),129 min,8.1,"447,728",$45.06M
+226,Portrait of a Lady on Fire,(2019),122 min,8.1,"80,391",$3.76M
+227,Edge of Tomorrow,(2014),113 min,7.9,"639,343",$100.21M
+228,Incendies,(2010),131 min,8.3,"165,947",$6.86M
+229,What We Do in the Shadows,(2014),86 min,7.7,"172,200",$3.33M
+230,Magnolia,(1999),188 min,8.0,"302,135",$22.46M
+231,Brokeback Mountain,(2005),134 min,7.7,"342,069",$83.04M
+232,Trainspotting,(1996),93 min,8.1,"661,517",$16.50M
+233,The Mitchells vs the Machines,(2021),113 min,7.7,"80,318",-
+234,Casino,(1995),178 min,8.2,"493,457",$42.44M
+235,Stardust,(2007),127 min,7.6,"264,871",$38.63M
+236,Manchester by the Sea,(2016),137 min,7.8,"265,478",$47.70M
+237,The Breakfast Club,(1985),97 min,7.8,"376,394",$45.88M
+238,Psycho,(1960),109 min,8.5,"638,460",$32.00M
+239,Dallas Buyers Club,(2013),117 min,8.0,"466,152",$27.30M
+240,Reservoir Dogs,(1992),99 min,8.3,"967,918",$2.83M
+241,Shrek,(2001),90 min,7.9,"644,307",$267.67M
+242,The Road Warrior,(1981),96 min,7.6,"174,354",$12.47M
+243,Airplane!,(1980),88 min,7.7,"226,970",$83.40M
+244,Mystic River,(2003),138 min,7.9,"440,941",$90.14M
+245,Apocalypto,(2006),139 min,7.8,"302,258",$50.87M
+246,Zootopia,(2016),108 min,8.0,"464,833",$341.27M
+247,Argo,(2012),120 min,7.7,"595,138",$136.03M
+248,Dances with Wolves,(1990),181 min,8.0,"252,762",$184.21M
+249,Howl's Moving Castle,(2004),119 min,8.2,"364,010",$4.71M
+250,American History X,(1998),119 min,8.5,"1,075,996",$6.72M
+251,Your Name.,(2016),106 min,8.4,"232,463",$5.02M
+252,Hell or High Water,(II) (2016),102 min,7.6,"217,210",$26.86M
+253,The Sound of Music,(1965),172 min,8.0,"218,087",$163.21M
+254,Close Encounters of the Third Kind,(1977),138 min,7.6,"194,174",$132.09M
+255,Dark Waters,(2019),126 min,7.6,"77,053",-
+256,Unforgiven,(1992),130 min,8.2,"395,749",$101.16M
+257,Jaws,(1975),124 min,8.0,"569,962",$260.00M
+258,Amadeus,(1984),160 min,8.3,"385,658",$51.97M
+259,Ocean's Eleven,(2001),116 min,7.7,"544,849",$183.42M
+260,Black Hawk Down,(2001),144 min,7.7,"380,802",$108.64M
+261,The Game,(1997),129 min,7.7,"373,848",$48.32M
+262,Lost in Translation,(2003),102 min,7.7,"436,831",$44.59M
+263,Captain America: The Winter Soldier,(2014),136 min,7.7,"788,588",$259.77M
+264,Star Wars: Episode V - The Empire Strikes Back,(1980),124 min,8.7,"1,217,987",$290.48M
+265,X-Men: Days of Future Past,(2014),132 min,7.9,"684,829",$233.92M
+266,Toy Story,(1995),81 min,8.3,"937,238",$191.80M
+267,The Trial of the Chicago 7,(2020),129 min,7.8,"162,500",-
+268,The Pursuit of Happyness,(2006),117 min,8.0,"479,963",$163.57M
+269,Man on Fire,(2004),146 min,7.7,"348,734",$77.91M
+270,Shershaah,(2021),135 min,8.7,"109,307",-
+271,Cabaret,(1972),124 min,7.8,"52,536",$42.77M
+272,Inside Out,(I) (2015),95 min,8.1,"663,180",$356.46M
+273,Halloween,(1978),91 min,7.7,"260,090",$47.00M
+274,Citizen Kane,(1941),119 min,8.3,"426,217",$1.59M
+275,Warrior,(2011),140 min,8.1,"453,560",$13.66M
+276,The Conversation,(1974),113 min,7.8,"107,005",$4.42M
+277,Gone Baby Gone,(2007),114 min,7.6,"264,730",$20.30M
+278,The Sixth Sense,(1999),107 min,8.1,"950,229",$293.51M
+279,Office Space,(1999),89 min,7.7,"254,739",$10.82M
+280,E.T. the Extra-Terrestrial,(1982),115 min,7.8,"390,881",$435.11M
+281,Sound of Metal,(2019),120 min,7.8,"110,324",-
+282,Predator,(1987),107 min,7.8,"391,247",$59.74M
+283,Hot Fuzz,(2007),121 min,7.8,"486,571",$23.64M
+284,12 Years a Slave,(2013),134 min,8.1,"670,848",$56.67M
+285,Incredibles 2,(2018),118 min,7.6,"273,618",$608.58M
+286,The Butterfly Effect,(2004),113 min,7.6,"470,789",$57.94M
+287,Sherlock Holmes,(2009),128 min,7.6,"608,310",$209.03M
+288,Blazing Saddles,(1974),93 min,7.7,"133,284",$119.50M
+289,The Machinist,(2004),101 min,7.7,"374,353",$1.08M
+290,Groundhog Day,(1993),101 min,8.0,"599,839",$70.91M
+291,The Last of the Mohicans,(1992),112 min,7.7,"161,570",$75.51M
+292,My Cousin Vinny,(1992),120 min,7.6,"116,463",$52.93M
+293,The Bourne Ultimatum,(2007),115 min,8.0,"619,874",$227.47M
+294,Gone with the Wind,(1939),238 min,8.1,"303,799",$198.68M
+295,Taken,(I) (2008),90 min,7.8,"584,630",$145.00M
+296,Little Miss Sunshine,(2006),101 min,7.8,"458,860",$59.89M
+297,Rocky,(1976),120 min,8.1,"545,724",$117.24M
+298,The Exorcist,(1973),122 min,8.0,"382,020",$232.91M
+299,Wonder,(I) (2017),113 min,8.0,"155,112",$132.42M
+300,Lethal Weapon,(1987),109 min,7.6,"248,482",$65.21M
+301,X-Men: First Class,(2011),131 min,7.7,"667,815",$146.41M
+302,Mary Poppins,(1964),139 min,7.8,"165,493",$102.27M
+303,Grave of the Fireflies,(1988),89 min,8.5,"256,942",-
+304,The Blues Brothers,(1980),133 min,7.9,"192,039",$57.23M
+305,Star Wars: Episode VI - Return of the Jedi,(1983),131 min,8.3,"996,245",$309.13M
+306,Y tu mamá también,(2001),106 min,7.6,"120,083",$13.62M
+307,Room,(I) (2015),118 min,8.1,"397,367",$14.68M
+308,The Royal Tenenbaums,(2001),110 min,7.6,"280,086",$52.36M
+309,Saw,(2004),103 min,7.6,"401,870",$56.00M
+310,Platoon,(1986),120 min,8.1,"398,464",$138.53M
+311,Tangled,(2010),100 min,7.7,"427,839",$200.82M
+312,The Curious Case of Benjamin Button,(2008),166 min,7.8,"620,499",$127.51M
+313,Capernaum,(2018),126 min,8.4,"78,624",$1.66M
+314,Gifted,(2017),101 min,7.6,"109,414",$24.80M
+315,Memories of Murder,(2003),132 min,8.1,"163,544",$0.01M
+316,WALL·E,(2008),98 min,8.4,"1,054,056",$223.81M
+317,Misery,(1990),107 min,7.8,"197,986",$61.28M
+318,Rush,(I) (2013),123 min,8.1,"457,443",$26.95M
+319,Toy Story 4,(2019),100 min,7.7,"227,518",$434.04M
+320,The Deer Hunter,(1978),183 min,8.1,"327,288",$48.98M
+321,Doctor Zhivago,(1965),197 min,8.0,"73,499",$111.72M
+322,Star Trek Into Darkness,(2013),132 min,7.7,"474,575",$228.78M
+323,Donnie Brasco,(1997),127 min,7.7,"293,916",$41.91M
+324,A Few Good Men,(1992),138 min,7.7,"250,035",$141.34M
+325,Chinatown,(1974),130 min,8.2,"312,637",$8.49M
+326,The Florida Project,(2017),111 min,7.6,"105,569",$5.90M
+327,Big Fish,(2003),125 min,8.0,"429,833",$66.26M
+328,Who Framed Roger Rabbit,(1988),104 min,7.7,"192,755",$156.45M
+329,3 Idiots,(2009),170 min,8.4,"372,936",$6.53M
+330,The Girl with the Dragon Tattoo,(2009),152 min,7.8,"213,579",$10.10M
+331,The Help,(2011),146 min,8.0,"442,068",$169.71M
+332,Naked,(1993),131 min,7.8,"37,654",$1.77M
+333,The Sandlot,(1993),101 min,7.8,"85,901",$32.42M
+334,Mr. Nobody,(2009),141 min,7.8,"226,144",$0.00M
+335,Soorarai Pottru,(2020),153 min,9.1,"104,287",-
+336,12 Monkeys,(1995),129 min,8.0,"599,870",$57.14M
+337,Training Day,(2001),122 min,7.7,"413,956",$76.63M
+338,Minority Report,(2002),145 min,7.6,"530,920",$132.07M
+339,The Lives of Others,(2006),137 min,8.4,"376,046",$11.29M
+340,Birdman or (The Unexpected Virtue of Ignorance),(2014),119 min,7.7,"606,248",$42.34M
+341,Amélie,(2001),122 min,8.3,"730,390",$33.23M
+342,Gaslight,(1944),114 min,7.8,"26,995",-
+343,Midnight in Paris,(2011),94 min,7.7,"406,620",$56.82M
+344,The Graduate,(1967),106 min,8.0,"265,214",$104.95M
+345,In the Mood for Love,(2000),98 min,8.1,"139,414",$2.73M
+346,Once Upon a Time in the West,(1968),165 min,8.5,"317,213",$5.32M
+347,Downfall,(2004),156 min,8.2,"344,224",$5.51M
+348,What's Eating Gilbert Grape,(1993),118 min,7.7,"227,480",$9.17M
+349,Rushmore,(1998),93 min,7.7,"178,635",$17.11M
+350,Indiana Jones and the Last Crusade,(1989),127 min,8.2,"723,638",$197.17M
+351,Stalker,(1979),162 min,8.1,"128,049",$0.23M
+352,Up,(2009),96 min,8.2,"986,279",$293.00M
+353,Big Hero 6,(2014),102 min,7.8,"434,690",$222.53M
+354,Demon Slayer: Mugen Train,(2020),117 min,8.2,"40,820",$47.70M
+355,500 Days of Summer,(2009),95 min,7.7,"492,599",$32.39M
+356,The Boy in the Striped Pajamas,(2008),94 min,7.8,"205,163",$9.03M
+357,Finding Nemo,(2003),100 min,8.1,"993,222",$380.84M
+358,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,(1964),95 min,8.4,"471,435",$0.28M
+359,Primal Fear,(1996),129 min,7.7,"202,964",$56.12M
+360,The Count of Monte Cristo,(2002),131 min,7.7,"134,086",$54.23M
+361,"Monsters, Inc.",(2001),92 min,8.1,"859,934",$289.92M
+362,Rear Window,(1954),112 min,8.5,"470,392",$36.76M
+363,Shaun of the Dead,(2004),99 min,7.9,"536,193",$13.54M
+364,Lawrence of Arabia,(1962),228 min,8.3,"282,117",$44.82M
+365,The Great Beauty,(2013),141 min,7.8,"85,662",$2.85M
+366,Remember the Titans,(2000),113 min,7.8,"206,848",$115.65M
+367,Beauty and the Beast,(1991),84 min,8.0,"431,347",$218.97M
+368,Million Dollar Baby,(2004),132 min,8.1,"663,008",$100.49M
+369,Vertigo,(1958),128 min,8.3,"386,269",$3.20M
+370,Isle of Dogs,(2018),101 min,7.8,"155,685",$32.02M
+371,Crash,(I) (2004),112 min,7.7,"428,948",$54.58M
+372,Scent of a Woman,(1992),156 min,8.0,"281,910",$63.90M
+373,Young Frankenstein,(1974),106 min,8.0,"153,012",$86.30M
+374,Gattaca,(1997),106 min,7.8,"292,473",$12.34M
+375,Despicable Me,(2010),95 min,7.6,"521,678",$251.51M
+376,Gran Torino,(2008),116 min,8.1,"748,116",$148.10M
+377,The Great Escape,(1963),172 min,8.2,"235,777",$12.10M
+378,Rain Man,(1988),133 min,8.0,"493,815",$178.80M
+379,Seven Samurai,(1954),207 min,8.6,"332,116",$0.27M
+380,Just Mercy,(2019),137 min,7.6,"58,783",-
+381,Gravity,(2013),91 min,7.7,"797,856",$274.09M
+382,End of Watch,(2012),109 min,7.6,"238,254",$41.00M
+383,The Invisible Guest,(2016),106 min,8.1,"163,835",-
+384,Empire of the Sun,(1987),153 min,7.7,"121,331",$22.24M
+385,The Thin Red Line,(1998),170 min,7.6,"181,822",$36.40M
+386,In Bruges,(2008),107 min,7.9,"406,567",$7.76M
+387,Princess Mononoke,(1997),134 min,8.4,"369,960",$2.38M
+388,The Untouchables,(1987),119 min,7.9,"297,488",$76.27M
+389,How to Train Your Dragon,(2010),98 min,8.1,"700,898",$217.58M
+390,A Streetcar Named Desire,(1951),122 min,8.0,"104,872",$8.00M
+391,District 9,(2009),112 min,7.9,"659,913",$115.65M
+392,Before Sunrise,(1995),101 min,8.1,"290,407",$5.54M
+393,As Good as It Gets,(1997),139 min,7.7,"289,655",$148.48M
+394,Back to the Future Part II,(1989),108 min,7.8,"506,539",$118.50M
+395,The Holy Mountain,(1973),114 min,7.9,"40,814",$0.06M
+396,The Last Samurai,(2003),154 min,7.7,"419,433",$111.11M
+397,Aladdin,(1992),90 min,8.0,"390,582",$217.35M
+398,Lion,(2016),118 min,8.0,"226,844",$51.74M
+399,Goldfinger,(1964),110 min,7.7,"183,495",$51.08M
+400,The Fault in Our Stars,(2014),126 min,7.7,"360,712",$124.87M
+401,Coraline,(2009),100 min,7.7,"212,776",$75.29M
+402,The Theory of Everything,(2014),123 min,7.7,"428,625",$35.89M
+403,Kill Bill: Vol. 2,(2004),137 min,8.0,"721,155",$66.21M
+404,Dancer in the Dark,(2000),140 min,8.0,"106,794",$4.18M
+405,Toy Story 3,(2010),103 min,8.2,"793,905",$415.00M
+406,First Blood,(1982),93 min,7.7,"240,578",$47.21M
+407,Blood Diamond,(2006),143 min,8.0,"524,504",$57.37M
+408,When Harry Met Sally...,(1989),95 min,7.6,"207,854",$92.82M
+409,Monty Python and the Holy Grail,(1975),91 min,8.2,"521,974",$1.23M
+410,Road to Perdition,(2002),117 min,7.7,"259,240",$104.45M
+411,North by Northwest,(1959),136 min,8.3,"315,156",$13.28M
+412,Sense and Sensibility,(1995),136 min,7.7,"110,608",$43.18M
+413,Singin' in the Rain,(1952),103 min,8.3,"231,072",$8.82M
+414,Wreck-It Ralph,(2012),101 min,7.7,"400,418",$189.42M
+415,Moon,(2009),97 min,7.8,"348,109",$5.01M
+416,"O Brother, Where Art Thou?",(2000),107 min,7.7,"300,475",$45.51M
+417,The Fighter,(I) (2010),116 min,7.8,"354,009",$93.62M
+418,The Birds,(1963),119 min,7.7,"181,617",$11.40M
+419,Slumdog Millionaire,(2008),120 min,8.0,"822,419",$141.32M
+420,Zombieland,(2009),88 min,7.6,"548,104",$75.59M
+421,Deliverance,(1972),109 min,7.7,"104,448",$7.06M
+422,Planet of the Apes,(1968),112 min,8.0,"173,758",$33.40M
+423,Serenity,(2005),119 min,7.8,"290,621",$25.51M
+424,Straight Outta Compton,(2015),147 min,7.8,"191,008",$161.20M
+425,Carlito's Way,(1993),144 min,7.9,"210,487",$36.95M
+426,"Crouching Tiger, Hidden Dragon",(2000),120 min,7.8,"262,403",$128.08M
+427,Fanny and Alexander,(1982),188 min,8.1,"61,580",$4.97M
+428,Cinema Paradiso,(1988),155 min,8.5,"248,294",$11.99M
+429,Life of Pi,(2012),127 min,7.9,"605,194",$124.99M
+430,Mulan,(1998),88 min,7.7,"271,843",$120.62M
+431,Boyz n the Hood,(1991),112 min,7.8,"134,592",$57.50M
+432,I Saw the Devil,(2010),144 min,7.8,"122,077",$0.13M
+433,Do the Right Thing,(1989),120 min,8.0,"97,773",$27.55M
+434,The Shop Around the Corner,(1940),99 min,8.1,"30,938",$0.20M
+435,Hunt for the Wilderpeople,(2016),101 min,7.9,"122,451",$5.20M
+436,To Have and Have Not,(1944),100 min,7.8,"33,341",-
+437,The Fugitive,(1993),130 min,7.8,"281,892",$183.88M
+438,Dangal,(2016),161 min,8.4,"174,732",$12.39M
+439,Roma,(2018),135 min,7.7,"150,368",-
+440,Breakfast at Tiffany's,(1961),115 min,7.6,"174,133",-
+441,All the President's Men,(1976),138 min,8.0,"110,683",$70.60M
+442,Life of Brian,(1979),94 min,8.1,"384,925",$20.05M
+443,The Treasure of the Sierra Madre,(1948),126 min,8.2,"120,820",$5.01M
+444,Barry Lyndon,(1975),185 min,8.1,"160,209",-
+445,Perfect Blue,(1997),81 min,8.0,"67,757",$0.78M
+446,A Silent Voice: The Movie,(2016),130 min,8.2,"67,055",-
+447,Fried Green Tomatoes,(1991),130 min,7.7,"71,684",$82.42M
+448,The King's Speech,(2010),118 min,8.0,"660,624",$138.80M
+449,Brazil,(1985),132 min,7.9,"196,075",$9.93M
+450,Fiddler on the Roof,(1971),181 min,8.0,"41,904",$80.50M
+451,Battle Royale,(2000),114 min,7.6,"177,938",-
+452,Creed,(II) (2015),133 min,7.6,"261,263",$109.77M
+453,Akira,(1988),124 min,8.0,"176,452",$0.55M
+454,Paddington 2,(2017),103 min,7.8,"69,135",$40.44M
+455,A Bronx Tale,(1993),121 min,7.8,"135,414",$17.27M
+456,The Boondock Saints,(1999),108 min,7.7,"234,214",$0.03M
+457,Eastern Promises,(2007),100 min,7.6,"236,442",$17.11M
+458,Raging Bull,(1980),129 min,8.2,"338,785",$23.38M
+459,Metropolis,(1927),153 min,8.3,"168,354",$1.24M
+460,Captain Phillips,(2013),134 min,7.8,"441,663",$107.10M
+461,Changeling,(2008),141 min,7.7,"248,347",$35.74M
+462,"Paris, Texas",(1984),145 min,8.1,"100,840",$2.18M
+463,To Kill a Mockingbird,(1962),129 min,8.2,"306,490",-
+464,"Blood In, Blood Out",(1993),180 min,8.0,"30,307",$4.50M
+465,Seven Pounds,(2008),123 min,7.6,"295,740",$69.95M
+466,All About Eve,(1950),138 min,8.2,"127,101",$0.01M
+467,Dark City,(1998),100 min,7.6,"195,006",$14.38M
+468,The Elephant Man,(1980),124 min,8.1,"232,580",-
+469,My Neighbor Totoro,(1988),86 min,8.2,"315,856",$1.11M
+470,This Is Spinal Tap,(1984),82 min,7.9,"135,730",$4.74M
+471,Rosemary's Baby,(1968),137 min,8.0,"206,377",-
+472,The Magnificent Seven,(1960),128 min,7.7,"92,139",$4.91M
+473,Midnight Cowboy,(1969),113 min,7.8,"107,425",$44.79M
+474,Spartacus,(1960),197 min,7.9,"130,857",$30.00M
+475,The Apartment,(1960),125 min,8.3,"173,944",$18.60M
+476,Awakenings,(1990),121 min,7.8,"134,721",$52.10M
+477,Ben-Hur,(1959),212 min,8.1,"230,393",$74.70M
+478,Sunset Blvd.,(1950),110 min,8.4,"213,280",-
+479,Toy Story 2,(1999),92 min,7.9,"553,540",$245.85M
+480,Das Boot,(1981),149 min,8.3,"242,612",$11.49M
+481,3:10 to Yuma,(2007),122 min,7.7,"300,381",$53.61M
+482,Searching,(III) (2018),102 min,7.6,"154,661",$26.02M
+483,The Ten Commandments,(1956),220 min,7.9,"67,736",$93.74M
+484,Lost Highway,(1997),134 min,7.6,"137,550",$3.80M
+485,Walk the Line,(2005),136 min,7.8,"243,374",$119.52M
+486,Dirty Harry,(1971),102 min,7.7,"150,707",$35.90M
+487,Boyhood,(I) (2014),165 min,7.9,"346,394",$25.38M
+488,My Fair Lady,(1964),170 min,7.8,"91,718",$72.00M
+489,Some Like It Hot,(1959),121 min,8.2,"256,557",$25.00M
+490,The Sting,(1973),129 min,8.3,"252,605",$159.60M
+491,Chungking Express,(1994),102 min,8.1,"73,552",$0.60M
+492,Rio Bravo,(1959),141 min,8.0,"59,870",$12.54M
+493,The Others,(2001),104 min,7.6,"353,794",$96.52M
+494,The Wrestler,(2008),109 min,7.9,"298,571",$26.24M
+495,The Seventh Seal,(1957),96 min,8.2,"177,514",-
+496,The Last Picture Show,(1971),118 min,8.0,"45,525",$29.13M
+497,La Haine,(1995),98 min,8.1,"162,566",$0.31M
+498,Hero,(2002),120 min,7.9,"178,449",$53.71M
+499,Dog Day Afternoon,(1975),125 min,8.0,"247,853",$50.00M
+500,Glory,(1989),122 min,7.8,"130,880",$26.83M
+501,Network,(1976),121 min,8.1,"153,633",-
+502,Match Point,(2005),124 min,7.6,"213,174",$23.09M
+503,The Lego Movie,(2014),100 min,7.7,"338,087",$257.76M
+504,Philadelphia,(1993),125 min,7.7,"233,869",$77.32M
+505,Dogville,(2003),178 min,8.0,"144,510",$1.53M
+506,The Third Man,(1949),93 min,8.1,"166,647",$0.45M
+507,"South Park: Bigger, Longer & Uncut",(1999),81 min,7.7,"199,622",$52.04M
+508,Star Trek II: The Wrath of Khan,(1982),113 min,7.7,"117,498",$78.91M
+509,The Secret in Their Eyes,(2009),129 min,8.2,"202,700",$6.39M
+510,Being John Malkovich,(1999),113 min,7.7,"325,305",$22.86M
+511,Hotel Rwanda,(2004),121 min,8.1,"345,869",$23.53M
+512,After Hours,(I) (1985),97 min,7.7,"65,782",$10.60M
+513,Fallen Angels,(1995),99 min,7.7,"34,172",-
+514,Billy Elliot,(2000),110 min,7.7,"131,500",$22.00M
+515,Kung Fu Hustle,(2004),99 min,7.7,"134,218",$17.11M
+516,Enter the Dragon,(1973),102 min,7.7,"101,659",$25.00M
+517,The Outlaw Josey Wales,(1976),135 min,7.8,"70,775",$31.80M
+518,Let the Right One In,(2008),114 min,7.9,"211,850",$2.12M
+519,Bonnie and Clyde,(1967),111 min,7.8,"109,038",-
+520,The French Connection,(1971),104 min,7.7,"117,260",$15.63M
+521,The Jungle Book,(1967),78 min,7.6,"174,395",$141.84M
+522,The Skin I Live In,(2011),120 min,7.6,"146,857",$3.19M
+523,Butch Cassidy and the Sundance Kid,(1969),110 min,8.0,"210,391",$102.31M
+524,Mississippi Burning,(1988),128 min,7.8,"95,942",$34.60M
+525,Wild Tales,(2014),122 min,8.1,"188,987",$3.11M
+526,Paths of Glory,(1957),88 min,8.4,"189,116",-
+527,Ghost in the Shell,(1995),83 min,8.0,"137,246",$0.52M
+528,Hachi: A Dog's Tale,(2009),93 min,8.1,"269,689",-
+529,The Day the Earth Stood Still,(1951),92 min,7.7,"80,129",-
+530,The Man from Earth,(2007),87 min,7.9,"182,211",-
+531,Annie Hall,(1977),93 min,8.0,"259,495",$39.20M
+532,Sling Blade,(1996),135 min,8.0,"91,865",$24.48M
+533,M,(1931),99 min,8.3,"152,142",$0.03M
+534,Hara-Kiri,(1962),133 min,8.6,"50,620",-
+535,The Color Purple,(1985),154 min,7.8,"83,127",$98.47M
+536,The Iron Giant,(1999),86 min,8.0,"182,896",$23.16M
+537,Miller's Crossing,(1990),115 min,7.7,"131,869",$5.08M
+538,Before Sunset,(2004),80 min,8.1,"250,704",$5.82M
+539,A Separation,(2011),123 min,8.3,"234,275",$7.10M
+540,Lucky Number Slevin,(2006),110 min,7.7,"307,298",$22.49M
+541,Togo,(2019),113 min,8.0,"44,292",-
+542,I Am Sam,(2001),132 min,7.6,"147,503",$40.31M
+543,This Is England,(2006),101 min,7.7,"119,567",$0.33M
+544,Glengarry Glen Ross,(1992),100 min,7.7,"101,734",$10.73M
+545,Papillon,(1973),151 min,8.0,"127,142",$53.27M
+546,Flipped,(I) (2010),90 min,7.7,"87,266",$1.75M
+547,96,(II) (2018),158 min,8.5,"26,543",-
+548,Solaris,(1972),167 min,8.0,"87,722",-
+549,The Raid: Redemption,(2011),101 min,7.6,"198,346",$4.11M
+550,Tumbbad,(2018),104 min,8.3,"38,574",-
+551,The Naked Gun: From the Files of Police Squad!,(1988),85 min,7.6,"161,984",$78.76M
+552,A Fistful of Dollars,(1964),99 min,8.0,"208,909",$14.50M
+553,The Name of the Rose,(1986),130 min,7.7,"105,900",$7.15M
+554,Black Book,(2006),145 min,7.7,"75,207",$4.40M
+555,Only the Brave,(2017),134 min,7.6,"64,554",$18.34M
+556,Adaptation.,(2002),115 min,7.7,"187,301",$22.25M
+557,Ip Man,(2008),106 min,8.0,"218,518",-
+558,Pink Floyd: The Wall,(1982),95 min,8.0,"79,045",$22.24M
+559,Serpico,(1973),130 min,7.7,"117,973",$29.80M
+560,Malcolm X,(1992),202 min,7.7,"91,263",$48.17M
+561,21 Grams,(2003),124 min,7.6,"231,933",$16.29M
+562,Ran,(1985),162 min,8.2,"120,671",$4.14M
+563,Amores perros,(2000),154 min,8.1,"233,700",$5.38M
+564,Days of Heaven,(1978),94 min,7.8,"56,137",-
+565,Gandhi,(1982),191 min,8.0,"224,586",$52.77M
+566,The Best Offer,(2013),131 min,7.8,"114,550",$0.09M
+567,Charade,(1963),113 min,7.9,"73,889",$13.47M
+568,Wolfwalkers,(2020),103 min,8.0,"27,160",-
+569,Nebraska,(2013),115 min,7.7,"115,901",$17.65M
+570,Cool Hand Luke,(1967),127 min,8.1,"171,440",$16.22M
+571,Detachment,(2011),98 min,7.7,"81,670",$0.07M
+572,Mommy,(I) (2014),139 min,8.1,"54,604",$3.49M
+573,Rebel Without a Cause,(1955),111 min,7.7,"87,627",-
+574,8½,(1963),138 min,8.0,"114,473",$0.05M
+575,Rebecca,(1940),130 min,8.1,"132,330",$4.36M
+576,Before Midnight,(2013),109 min,7.9,"150,394",$8.11M
+577,Laura,(1944),88 min,8.0,"45,496",$4.36M
+578,Evil Dead II,(1987),84 min,7.7,"156,648",$5.92M
+579,Witness for the Prosecution,(1957),116 min,8.4,"118,099",$8.18M
+580,The Maltese Falcon,(1941),100 min,8.0,"154,573",$2.11M
+581,Ponyo,(2008),101 min,7.7,"135,114",$15.09M
+582,The Bridge on the River Kwai,(1957),161 min,8.1,"212,907",$44.91M
+583,50/50,(2011),100 min,7.6,"323,897",$35.01M
+584,The Last Emperor,(1987),163 min,7.7,"99,485",$43.98M
+585,Persona,(1966),83 min,8.1,"112,286",-
+586,Clerks,(1994),92 min,7.7,"217,511",$3.15M
+587,A Little Princess,(1995),97 min,7.7,"33,699",$10.02M
+588,Baahubali: The Beginning,(2015),159 min,8.0,"109,726",$6.74M
+589,Ordinary People,(1980),124 min,7.7,"50,021",$54.80M
+590,Nausicaä of the Valley of the Wind,(1984),117 min,8.1,"161,983",$0.50M
+591,Cinderella Man,(2005),144 min,8.0,"182,659",$61.65M
+592,How to Train Your Dragon 2,(2014),102 min,7.8,"319,851",$177.00M
+593,In the Name of the Father,(1993),133 min,8.1,"167,577",$25.01M
+594,Paprika,(2006),90 min,7.7,"78,047",$0.88M
+595,Joyeux Noel,(2005),116 min,7.7,"28,959",$1.05M
+596,The Bridges of Madison County,(1995),135 min,7.6,"78,069",$71.52M
+597,Blood Simple,(1984),99 min,7.6,"93,070",$2.15M
+598,Ed Wood,(1994),127 min,7.8,"171,802",$5.89M
+599,Happiness,(1998),134 min,7.7,"68,798",$2.81M
+600,The Insider,(1999),157 min,7.8,"167,019",$28.97M
+601,The Searchers,(1956),119 min,7.9,"85,995",-
+602,Talk to Her,(2002),112 min,7.9,"109,486",$9.28M
+603,High Noon,(1952),85 min,8.0,"101,555",$9.45M
+604,Victoria,(II) (2015),138 min,7.6,"56,569",-
+605,Like Stars on Earth,(2007),165 min,8.4,"183,087",$1.22M
+606,Stalag 17,(1953),120 min,8.0,"54,511",-
+607,For a Few Dollars More,(1965),132 min,8.2,"246,038",$15.00M
+608,The King of Comedy,(1982),109 min,7.8,"97,602",$2.50M
+609,Kramer vs. Kramer,(1979),105 min,7.8,"140,240",$106.26M
+610,Neon Genesis Evangelion: The End of Evangelion,(1997),87 min,8.1,"48,432",-
+611,Andhadhun,(2018),139 min,8.2,"85,090",$1.37M
+612,Kiki's Delivery Service,(1989),103 min,7.9,"135,238",-
+613,Interstate 60: Episodes of the Road,(2002),116 min,7.7,"31,570",-
+614,Sing Street,(2016),106 min,7.9,"90,248",$3.24M
+615,The Right Stuff,(1983),193 min,7.8,"59,898",$21.50M
+616,Rashomon,(1950),88 min,8.2,"161,792",$0.10M
+617,Hamlet,(1996),242 min,7.7,"37,340",$4.41M
+618,The Remains of the Day,(1993),134 min,7.8,"70,791",$22.95M
+619,Badlands,(1973),94 min,7.8,"70,508",-
+620,Where Eagles Dare,(1968),158 min,7.6,"56,267",-
+621,Once Were Warriors,(1994),102 min,7.9,"33,056",$2.20M
+622,Short Term 12,(2013),96 min,8.0,"85,696",$1.01M
+623,Bajrangi Bhaijaan,(2015),163 min,8.0,"82,323",$8.18M
+624,On the Waterfront,(1954),108 min,8.1,"149,769",$9.60M
+625,Beasts of No Nation,(2015),137 min,7.7,"78,546",$0.08M
+626,"Spring, Summer, Fall, Winter... and Spring",(2003),103 min,8.0,"80,998",$2.38M
+627,Harold and Maude,(1971),91 min,7.9,"75,463",-
+628,Barton Fink,(1991),116 min,7.7,"117,903",$6.15M
+629,Kahaani,(2012),122 min,8.1,"61,057",$1.04M
+630,Frankenstein,(1931),70 min,7.8,"69,772",-
+631,My Left Foot,(1989),103 min,7.9,"71,946",$14.74M
+632,The Last King of Scotland,(2006),123 min,7.7,"182,085",$17.61M
+633,Double Indemnity,(1944),107 min,8.3,"151,351",$5.72M
+634,Tokyo Godfathers,(2003),92 min,7.8,"35,342",$0.13M
+635,The Dirty Dozen,(1967),150 min,7.7,"70,590",$45.30M
+636,Breathless,(1960),90 min,7.8,"78,133",$0.34M
+637,Three Colors: Blue,(1993),94 min,7.9,"97,564",$1.32M
+638,Wings of Desire,(1987),128 min,8.0,"68,652",$3.33M
+639,Z,(1969),127 min,8.2,"26,595",$0.08M
+640,Roman Holiday,(1953),118 min,8.0,"134,369",-
+641,Notorious,(1946),102 min,8.0,"98,136",$10.46M
+642,The Artist,(I) (2011),100 min,7.9,"237,074",$44.67M
+643,Sabrina,(1954),113 min,7.6,"62,729",-
+644,Rope,(1948),80 min,8.0,"137,626",-
+645,Three Colors: Red,(1994),99 min,8.1,"99,408",$4.04M
+646,Mother,(2009),129 min,7.8,"59,748",$0.55M
+647,Being There,(1979),130 min,8.0,"70,423",$30.18M
+648,Ray,(I) (2004),152 min,7.7,"143,890",$75.33M
+649,The Big Heat,(1953),89 min,7.9,"25,734",-
+650,Dawn of the Dead,(1978),127 min,7.9,"117,123",$5.10M
+651,Shoplifters,(2018),121 min,7.9,"71,111",$3.31M
+652,Patton,(1970),172 min,7.9,"99,371",$61.70M
+653,Kelly's Heroes,(1970),144 min,7.6,"47,756",$1.38M
+654,The Wind Rises,(2013),126 min,7.8,"80,280",$5.21M
+655,Run Lola Run,(1998),80 min,7.7,"194,822",$7.27M
+656,Once,(I) (2007),86 min,7.8,"114,179",$9.44M
+657,Watership Down,(1978),91 min,7.6,"35,522",-
+658,Giant,(1956),201 min,7.6,"37,366",-
+659,Castle in the Sky,(1986),125 min,8.0,"159,244",-
+660,Night of the Living Dead,(1968),96 min,7.9,"123,827",$0.09M
+661,Gangs of Wasseypur,(2012),321 min,8.2,"91,120",-
+662,Happy Together,(1997),96 min,7.7,"26,486",$0.19M
+663,PK,(2014),153 min,8.1,"174,281",$10.62M
+664,Mary and Max,(2009),92 min,8.1,"172,016",-
+665,The Chaser,(2008),125 min,7.8,"63,200",-
+666,The Station Agent,(2003),89 min,7.6,"69,325",$5.74M
+667,The Night of the Hunter,(1955),92 min,8.0,"86,385",$0.65M
+668,Bicycle Thieves,(1948),89 min,8.3,"157,310",$0.33M
+669,Guess Who's Coming to Dinner,(1967),108 min,7.8,"42,587",$56.70M
+670,Uri: The Surgical Strike,(2019),138 min,8.3,"53,871",$4.19M
+671,Fantasia,(1940),125 min,7.7,"92,752",$76.41M
+672,Pride,(I) (2014),119 min,7.8,"54,758",-
+673,The Body,(2012),112 min,7.6,"62,680",-
+674,Dial M for Murder,(1954),105 min,8.2,"168,552",$0.01M
+675,Finding Neverland,(2004),106 min,7.7,"203,144",$51.68M
+676,Nosferatu,(1922),94 min,7.9,"93,362",-
+677,From Here to Eternity,(1953),118 min,7.6,"45,645",$30.50M
+678,October Sky,(1999),108 min,7.8,"87,734",$32.48M
+679,Infernal Affairs,(2002),101 min,8.0,"122,060",$0.17M
+680,Good Bye Lenin!,(2003),121 min,7.7,"142,796",$4.06M
+681,Belle de Jour,(1967),100 min,7.7,"42,818",$0.03M
+682,The Big Sleep,(1946),114 min,7.9,"83,347",$6.54M
+683,The Great Dictator,(1940),125 min,8.4,"215,198",$0.29M
+684,The Raid 2,(2014),150 min,8.0,"119,488",$2.63M
+685,Open Your Eyes,(1997),119 min,7.7,"67,802",$0.37M
+686,Amour,(2012),127 min,7.9,"97,369",$6.74M
+687,The Wild Bunch,(1969),135 min,7.9,"82,192",$12.06M
+688,Short Cuts,(1993),188 min,7.7,"43,948",$6.11M
+689,The 400 Blows,(1959),99 min,8.1,"112,687",-
+690,The Lion in Winter,(1968),134 min,7.9,"30,572",$22.28M
+691,The Man from Nowhere,(2010),119 min,7.8,"67,084",$0.01M
+692,25th Hour,(2002),135 min,7.6,"175,549",$13.06M
+693,Me and Earl and the Dying Girl,(2015),105 min,7.7,"128,147",$6.74M
+694,The Longest Day,(1962),178 min,7.8,"54,290",$39.10M
+695,God's Own Country,(2017),104 min,7.7,"28,635",$0.34M
+696,Ikiru,(1952),143 min,8.3,"74,676",$0.06M
+697,Arsenic and Old Lace,(1943),118 min,8.0,"69,179",-
+698,Stagecoach,(1939),96 min,7.9,"46,854",-
+699,Freaks,(1932),64 min,7.9,"44,785",-
+700,Touch of Evil,(1958),95 min,8.0,"102,183",$2.24M
+701,Breaking the Waves,(1996),159 min,7.8,"65,155",$4.04M
+702,Letters from Iwo Jima,(2006),141 min,7.9,"159,168",$13.76M
+703,In the Heat of the Night,(1967),110 min,7.9,"71,504",$24.38M
+704,Chhichhore,(2019),143 min,8.3,"46,066",$0.90M
+705,Drishyam,(2015),163 min,8.2,"77,640",$0.74M
+706,Yojimbo,(1961),110 min,8.2,"118,403",-
+707,Mysterious Skin,(2004),105 min,7.6,"67,914",$0.70M
+708,Hannah and Her Sisters,(1986),107 min,7.9,"69,966",$40.08M
+709,La Dolce Vita,(1960),174 min,8.0,"70,568",$19.52M
+710,The Salesman,(2016),124 min,7.7,"57,091",$2.40M
+711,King Kong,(1933),100 min,7.9,"83,164",$10.00M
+712,Modern Times,(1936),87 min,8.5,"231,206",$0.16M
+713,Loving Vincent,(2017),94 min,7.8,"55,094",$6.74M
+714,The Straight Story,(1999),112 min,8.0,"87,800",$6.20M
+715,The White Ribbon,(2009),144 min,7.8,"71,700",$2.22M
+716,Miracle in Cell No. 7,(2019),132 min,8.2,"43,815",-
+717,Mirror,(1975),107 min,8.1,"44,111",$0.18M
+718,Kubo and the Two Strings,(2016),101 min,7.8,"124,524",$48.02M
+719,Control,(2007),122 min,7.7,"63,881",$0.87M
+720,The Best Years of Our Lives,(1946),170 min,8.1,"61,466",$23.65M
+721,Philomena,(2013),98 min,7.6,"97,817",$37.71M
+722,The Man Who Shot Liberty Valance,(1962),123 min,8.1,"73,314",-
+723,The Taking of Pelham One Two Three,(1974),104 min,7.7,"29,445",$2.49M
+724,The Quiet Man,(1952),129 min,7.8,"37,083",$10.55M
+725,The Philadelphia Story,(1940),112 min,7.9,"66,863",-
+726,The Killing Fields,(1984),141 min,7.8,"54,210",$34.70M
+727,Manhattan,(1979),96 min,7.9,"137,254",$45.70M
+728,The Double Life of Véronique,(1991),98 min,7.8,"46,189",$2.00M
+729,The Celebration,(1998),105 min,8.1,"84,158",$1.65M
+730,East of Eden,(1955),118 min,7.9,"43,996",-
+731,Drishyam 2,(2021),152 min,8.6,"32,381",-
+732,It Happened One Night,(1934),105 min,8.1,"99,816",$4.36M
+733,The Killing,(1956),84 min,8.0,"86,580",-
+734,Mr. Smith Goes to Washington,(1939),129 min,8.1,"112,307",$9.60M
+735,Wild Strawberries,(1957),91 min,8.2,"103,333",-
+736,The Hustler,(1961),134 min,8.0,"79,886",$8.28M
+737,Zulu,(1964),138 min,7.7,"38,059",-
+738,What Ever Happened to Baby Jane?,(1962),134 min,8.1,"53,537",$4.05M
+739,Porco Rosso,(1992),94 min,7.7,"84,478",-
+740,Whisper of the Heart,(1995),111 min,7.9,"58,045",-
+741,The Wave,(2008),107 min,7.6,"106,486",-
+742,All About My Mother,(1999),101 min,7.9,"93,699",$8.26M
+743,High and Low,(1963),143 min,8.4,"40,629",-
+744,"Duck, You Sucker!",(1971),138 min,7.6,"33,442",$0.70M
+745,Judgment at Nuremberg,(1961),179 min,8.2,"74,438",-
+746,Paper Moon,(1973),102 min,8.1,"45,087",$30.93M
+747,Strangers on a Train,(1951),101 min,8.0,"130,333",$7.63M
+748,Andrei Rublev,(1966),205 min,8.1,"51,531",$0.10M
+749,A Man Called Ove,(2015),116 min,7.7,"51,626",$3.36M
+750,Fantastic Planet,(1973),72 min,7.8,"28,813",$0.19M
+751,The Day of the Jackal,(1973),143 min,7.8,"39,595",$16.06M
+752,Perfect Strangers,(2016),96 min,7.8,"61,677",-
+753,Lifeboat,(1944),97 min,7.6,"28,053",-
+754,The African Queen,(1951),105 min,7.8,"76,587",$0.54M
+755,Children of Heaven,(1997),89 min,8.3,"71,319",$0.93M
+756,The Red Shoes,(1948),135 min,8.1,"33,422",$10.90M
+757,Cape Fear,(1962),106 min,7.7,"28,141",-
+758,Anatomy of a Murder,(1959),161 min,8.0,"64,056",$11.90M
+759,City Lights,(1931),87 min,8.5,"177,779",$0.02M
+760,"I, Daniel Blake",(2016),100 min,7.9,"57,689",$0.26M
+761,The Verdict,(1982),129 min,7.7,"38,527",$54.00M
+762,Repulsion,(1965),105 min,7.7,"51,754",-
+763,The Manchurian Candidate,(1962),126 min,7.9,"73,963",-
+764,Who's Afraid of Virginia Woolf?,(1966),131 min,8.0,"73,239",-
+765,Secrets & Lies,(1996),136 min,8.0,"41,695",$13.42M
+766,Tokyo Story,(1953),136 min,8.2,"58,534",-
+767,Waking Life,(2001),99 min,7.8,"62,839",$2.89M
+768,The Thin Man,(1934),91 min,8.0,"28,374",-
+769,Lilya 4-Ever,(2002),109 min,7.8,"44,584",$0.18M
+770,The Diving Bell and the Butterfly,(2007),112 min,8.0,"106,126",$5.99M
+771,Hedwig and the Angry Inch,(2001),95 min,7.7,"34,784",$3.03M
+772,To Be or Not to Be,(1942),99 min,8.2,"34,507",-
+773,The Motorcycle Diaries,(2004),126 min,7.8,"99,624",$16.76M
+774,Shadow of a Doubt,(1943),108 min,7.8,"63,233",-
+775,Elite Squad,(2007),115 min,8.0,"101,402",$0.01M
+776,The Tale of The Princess Kaguya,(2013),137 min,8.0,"43,317",$1.51M
+777,Song of the Sea,(2014),93 min,8.1,"55,979",$0.86M
+778,Amarcord,(1973),123 min,7.9,"42,168",$0.58M
+779,Withnail & I,(1987),107 min,7.6,"42,604",$1.54M
+780,Nashville,(1975),160 min,7.7,"25,474",$14.82M
+781,Red River,(1948),133 min,7.8,"30,061",-
+782,Kal Ho Naa Ho,(2003),186 min,7.9,"66,815",$1.79M
+783,K.G.F: Chapter 1,(2018),156 min,8.3,"49,756",-
+784,In a Lonely Place,(1950),94 min,8.0,"29,834",-
+785,Land of Mine,(2015),100 min,7.8,"39,175",$0.44M
+786,The Battle of Algiers,(1966),121 min,8.1,"57,523",$0.06M
+787,Night on Earth,(1991),129 min,7.7,"58,530",$2.02M
+788,When Marnie Was There,(2014),103 min,7.7,"37,271",$0.77M
+789,Out of the Past,(1947),97 min,8.0,"35,558",-
+790,The Adventures of Robin Hood,(1938),102 min,7.9,"49,566",$3.98M
+791,Invasion of the Body Snatchers,(1956),80 min,7.7,"47,886",-
+792,Le Samouraï,(1967),101 min,8.1,"49,076",$0.04M
+793,The Tenant,(1976),126 min,7.6,"42,516",$1.92M
+794,"Aguirre, the Wrath of God",(1972),95 min,7.9,"55,331",-
+795,The Sacrifice,(1986),149 min,8.0,"26,986",$0.30M
+796,A Very Long Engagement,(2004),133 min,7.6,"72,546",$6.17M
+797,Cat on a Hot Tin Roof,(1958),108 min,8.0,"47,779",$17.57M
+798,The Legend of 1900,(1998),169 min,8.1,"62,071",$0.26M
+799,The Umbrellas of Cherbourg,(1964),91 min,7.8,"26,135",$0.03M
+800,The Kid,(1921),68 min,8.3,"121,432",$5.45M
+801,Leviathan,(2014),140 min,7.6,"51,957",$1.09M
+802,Underground,(1995),167 min,8.1,"57,292",$0.17M
+803,The Man Who Would Be King,(1975),129 min,7.8,"47,543",-
+804,All Quiet on the Western Front,(1930),152 min,8.1,"59,841",$3.27M
+805,Nights of Cabiria,(1957),110 min,8.1,"46,790",$0.75M
+806,The Vanishing,(1988),107 min,7.7,"37,349",-
+807,The Grapes of Wrath,(1940),129 min,8.1,"89,947",$0.06M
+808,A Prophet,(2009),155 min,7.9,"96,839",$2.08M
+809,Hiroshima Mon Amour,(1959),90 min,7.9,"30,550",$0.09M
+810,The Little Prince,(2015),108 min,7.7,"59,914",$1.34M
+811,His Girl Friday,(1940),92 min,7.9,"56,683",$0.30M
+812,Autumn Sonata,(1978),99 min,8.2,"32,215",-
+813,The Chorus,(2004),97 min,7.9,"60,056",$3.64M
+814,3-Iron,(2004),88 min,8.0,"53,525",$0.24M
+815,Adam's Apples,(2005),94 min,7.8,"48,866",$0.00M
+816,Lagaan: Once Upon a Time in India,(2001),224 min,8.1,"110,136",$0.07M
+817,The Cabinet of Dr. Caligari,(1920),67 min,8.1,"61,194",-
+818,The Innocents,(1961),100 min,7.8,"29,237",$2.62M
+819,The Sea Inside,(I) (2004),126 min,8.0,"80,204",$2.09M
+820,The Bride of Frankenstein,(1935),75 min,7.8,"46,648",$4.36M
+821,The Invisible Man,(1933),71 min,7.7,"33,555",-
+822,Raatchasan,(2018),170 min,8.4,"36,650",-
+823,Dersu Uzala,(1975),142 min,8.3,"26,225",-
+824,A Man for All Seasons,(1966),120 min,7.7,"33,558",$28.35M
+825,The Broken Circle Breakdown,(2012),111 min,7.7,"40,575",$0.18M
+826,Winter Sleep,(2014),196 min,8.1,"49,996",$0.17M
+827,Pather Panchali,(1955),125 min,8.4,"29,560",$0.54M
+828,Hard Boiled,(1992),128 min,7.8,"49,074",-
+829,The Conformist,(1970),113 min,8.0,"29,236",$0.54M
+830,Persepolis,(2007),96 min,8.0,"92,398",$4.45M
+831,Gilda,(1946),110 min,7.6,"31,213",-
+832,Gully Boy,(2019),154 min,7.9,"36,412",$5.57M
+833,The World's Fastest Indian,(2005),127 min,7.8,"53,707",$5.13M
+834,Ivan's Childhood,(1962),95 min,8.1,"34,808",-
+835,Ayla: The Daughter of War,(2017),125 min,8.4,"37,547",-
+836,My Name Is Khan,(2010),165 min,8.0,"103,425",$4.02M
+837,Three Colors: White,(1994),92 min,7.6,"70,449",$1.46M
+838,Frost/Nixon,(2008),122 min,7.7,"106,311",$18.59M
+839,Farewell My Concubine,(1993),171 min,8.1,"27,146",$5.22M
+840,Wolf Children,(2012),117 min,8.1,"42,360",-
+841,Super 30,(2019),154 min,8.0,"27,699",$2.27M
+842,Bringing Up Baby,(1938),102 min,7.9,"59,508",-
+843,Shine,(1996),105 min,7.7,"53,228",$35.81M
+844,The Odd Couple,(1968),105 min,7.7,"33,852",$44.53M
+845,Ninja Scroll,(1993),94 min,7.9,"36,291",-
+846,In Cold Blood,(1967),134 min,7.9,"25,737",-
+847,Fitzcarraldo,(1982),158 min,8.1,"33,735",-
+848,Peeping Tom,(1960),101 min,7.7,"33,882",$0.08M
+849,Scarface,(1932),93 min,7.8,"27,100",-
+850,Dara of Jasenovac,(2020),130 min,8.8,"79,944",-
+851,Badla,(2019),118 min,7.8,"26,051",$1.86M
+852,Kagemusha,(1980),162 min,8.0,"34,543",-
+853,Harvey,(1950),104 min,7.9,"54,428",-
+854,Zindagi Na Milegi Dobara,(2011),155 min,8.2,"73,776",$3.11M
+855,The Wages of Fear,(1953),131 min,8.1,"58,789",-
+856,Throne of Blood,(1957),110 min,8.1,"50,287",-
+857,Cries & Whispers,(1972),91 min,8.1,"32,775",$1.74M
+858,Key Largo,(1948),100 min,7.8,"39,414",-
+859,Nostalghia,(1983),125 min,8.1,"25,798",$0.01M
+860,My Sassy Girl,(2001),137 min,8.0,"47,139",-
+861,Eyes Without a Face,(1960),90 min,7.7,"30,223",$0.05M
+862,Wait Until Dark,(1967),108 min,7.8,"29,649",$17.55M
+863,Down by Law,(1986),107 min,7.7,"50,303",$1.44M
+864,La Strada,(1954),108 min,8.0,"61,389",-
+865,The General,(1926),67 min,8.1,"87,769",$1.03M
+866,Darbareye Elly,(2009),119 min,8.0,"50,764",$0.11M
+867,The Secret of Kells,(2009),75 min,7.6,"34,196",$0.69M
+868,Diabolique,(1955),117 min,8.1,"64,449",$1.09M
+869,Beauty and the Beast,(1946),93 min,7.9,"25,769",$0.30M
+870,Celda 211,(2009),113 min,7.6,"66,213",-
+871,The Lady Vanishes,(1938),96 min,7.8,"50,697",-
+872,The Asphalt Jungle,(1950),112 min,7.9,"25,754",-
+873,Taste of Cherry,(1997),95 min,7.8,"28,048",$0.31M
+874,Sweet Smell of Success,(1957),96 min,8.0,"30,475",-
+875,Ace in the Hole,(1951),111 min,8.1,"34,368",$3.97M
+876,The Bandit,(1996),128 min,8.2,"68,353",-
+877,The Discreet Charm of the Bourgeoisie,(1972),102 min,7.9,"41,469",$0.20M
+878,Sleuth,(1972),138 min,8.0,"46,743",$4.08M
+879,The 39 Steps,(1935),86 min,7.6,"55,062",-
+880,The Return,(2003),110 min,8.0,"44,545",$0.50M
+881,Evil,(2003),113 min,7.8,"37,042",$0.02M
+882,Article 15,(2019),130 min,8.2,"28,559",-
+883,Queen,(2013),146 min,8.2,"64,113",$1.43M
+884,Nobody Knows,(2004),141 min,8.1,"26,693",$0.68M
+885,Head-On,(2004),121 min,7.9,"53,134",-
+886,Loveless,(2017),127 min,7.6,"32,028",$0.57M
+887,The Hidden Fortress,(1958),126 min,8.1,"37,667",-
+888,Jules and Jim,(1962),105 min,7.8,"40,009",-
+889,Vivre Sa Vie,(1962),85 min,8.0,"30,388",-
+890,The Lunchbox,(2013),104 min,7.8,"53,926",$4.23M
+891,The Experiment,(2001),120 min,7.7,"92,733",$0.14M
+892,Vikram Vedha,(2017),147 min,8.3,"34,870",-
+893,After the Wedding,(2006),120 min,7.7,"33,833",$0.41M
+894,Dreams,(1990),119 min,7.8,"25,541",$1.96M
+895,The Message,(1976),177 min,8.2,"46,073",-
+896,Baahubali 2: The Conclusion,(2017),167 min,8.2,"82,449",$20.19M
+897,Millennium Actress,(2001),87 min,7.9,"26,150",$0.19M
+898,Sunrise,(1927),94 min,8.1,"49,936",$0.54M
+899,M.S. Dhoni: The Untold Story,(2016),184 min,7.9,"49,304",$1.78M
+900,Au Revoir les Enfants,(1987),104 min,8.0,"32,898",$4.54M
+901,Batman: Mask of the Phantasm,(1993),76 min,7.8,"47,204",$5.62M
+902,Crimes and Misdemeanors,(1989),104 min,7.9,"56,828",$18.25M
+903,Raise the Red Lantern,(1991),125 min,8.1,"31,511",$2.60M
+904,Confessions,(2010),106 min,7.7,"37,803",-
+905,Departures,(2008),130 min,8.1,"50,805",$1.50M
+906,L'Avventura,(1960),144 min,7.8,"28,519",-
+907,The Passion of Joan of Arc,(1928),114 min,8.1,"52,081",$0.02M
+908,The Gold Rush,(1925),95 min,8.2,"107,456",$5.45M
+909,Brief Encounter,(1945),86 min,8.0,"38,543",-
+910,"Black Cat, White Cat",(1998),127 min,8.1,"52,703",$0.35M
+911,Time of the Gypsies,(1988),142 min,8.1,"29,788",$0.28M
+912,Inherit the Wind,(1960),128 min,8.1,"29,261",-
+913,The Ladykillers,(1955),91 min,7.7,"28,457",-
+914,"4 Months, 3 Weeks and 2 Days",(2007),113 min,7.9,"58,866",$1.19M
+915,Joint Security Area,(2000),110 min,7.8,"28,740",-
+916,Once Upon a Time in Anatolia,(2011),157 min,7.9,"44,950",$0.14M
+917,The Girl Who Leapt Through Time,(2006),98 min,7.7,"63,797",-
+918,Dilwale Dulhania Le Jayenge,(1995),181 min,8.1,"66,996",-
+919,The Purple Rose of Cairo,(1985),82 min,7.7,"50,367",$10.63M
+920,The Postman,(1994),108 min,7.7,"35,423",$21.85M
+921,The Lost Weekend,(1945),101 min,7.9,"35,719",$9.46M
+922,Vampire Hunter D: Bloodlust,(2000),103 min,7.7,"30,859",$0.15M
+923,In a Better World,(2010),118 min,7.6,"39,562",$1.01M
+924,Battleship Potemkin,(1925),66 min,8.0,"56,084",$0.05M
+925,Only Yesterday,(1991),118 min,7.6,"30,114",$0.45M
+926,The Triplets of Belleville,(2003),80 min,7.8,"53,487",$7.00M
+927,No Man's Land,(I) (2001),98 min,7.9,"46,283",$1.06M
+928,Jab We Met,(2007),138 min,7.9,"50,749",$0.41M
+929,The Exterminating Angel,(1962),95 min,8.1,"32,156",-
+930,Drishyam,(2013),160 min,8.3,"38,704",-
+931,My Father and My Son,(2005),112 min,8.2,"83,861",-
+932,The Virgin Spring,(1960),89 min,8.1,"28,298",$1.53M
+933,Hera Pheri,(2000),156 min,8.2,"63,053",-
+934,Masaan,(2015),109 min,8.2,"26,503",-
+935,Pink,(III) (2016),136 min,8.1,"43,047",$1.24M
+936,G.O.R.A.,(2004),127 min,8.0,"60,311",-
+937,The Past,(2013),130 min,7.7,"47,713",$1.33M
+938,Rififi,(1955),118 min,8.1,"32,996",$0.06M
+939,Duck Soup,(1933),69 min,7.8,"59,064",-
+940,The Caine Mutiny,(1954),124 min,7.7,"26,940",$21.75M
+941,Fireworks,(1997),103 min,7.8,"29,579",$0.23M
+942,In America,(2002),105 min,7.7,"42,596",$15.54M
+943,Andaz Apna Apna,(1994),160 min,8.1,"52,095",-
+944,Tangerines,(2013),87 min,8.2,"44,742",$0.14M
+945,Sullivan's Travels,(1941),90 min,7.9,"25,616",-
+946,Haider,(2014),160 min,8.1,"52,629",$0.90M
+947,Talvar,(2015),132 min,8.2,"33,769",$0.34M
+948,Lupin III: The Castle of Cagliostro,(1979),102 min,7.7,"29,391",-
+949,La Grande Illusion,(1937),113 min,8.1,"35,600",$0.17M
+950,White Heat,(1949),114 min,8.1,"31,824",-
+951,Dil Chahta Hai,(2001),183 min,8.1,"70,177",$0.30M
+952,Rang De Basanti,(2006),167 min,8.1,"117,064",$2.20M
+953,Hindi Medium,(2017),132 min,7.9,"26,614",-
+954,The Magdalene Sisters,(2002),114 min,7.7,"26,822",$4.89M
+955,The Killer,(1989),111 min,7.8,"47,388",-
+956,Elite Squad 2: The Enemy Within,(2010),115 min,8.0,"81,552",$0.10M
+957,Badhaai Ho,(2018),124 min,8.0,"31,826",-
+958,Le Dîner de Cons,(1998),80 min,7.7,"40,372",$4.07M
+959,Sherlock Jr.,(1924),45 min,8.2,"46,731",$0.98M
+960,Special 26,(2013),144 min,8.0,"54,346",$1.08M
+961,Central Station,(1998),110 min,8.0,"38,534",$5.60M
+962,Barfi!,(2012),151 min,8.1,"79,405",$2.80M
+963,Udaan,(2010),134 min,8.2,"44,187",$0.01M
+964,Zelig,(1983),79 min,7.7,"41,371",$11.80M
+965,Love and Death,(1975),85 min,7.7,"37,701",-
+966,Black,(2005),122 min,8.2,"34,369",$0.73M
+967,Nine Queens,(2000),114 min,7.9,"51,693",$1.22M
+968,Kind Hearts and Coronets,(1949),106 min,8.0,"36,380",-
+969,The Rules of the Game,(1939),110 min,8.0,"28,183",-
+970,Baby,(I) (2015),159 min,8.0,"56,004",-
+971,Sanjuro,(1962),96 min,8.1,"36,996",-
+972,Tae Guk Gi: The Brotherhood of War,(2004),140 min,8.0,"39,057",$1.11M
+973,"Rome, Open City",(1945),103 min,8.1,"25,420",-
+974,Veer Zaara,(2004),192 min,7.8,"51,423",$2.92M
+975,Knockin' on Heaven's Door,(1997),87 min,7.9,"29,263",$0.00M
+976,Rockstar,(2011),159 min,7.7,"42,541",$0.99M
+977,The Edge of Heaven,(2007),122 min,7.8,"31,678",$0.74M
+978,Udta Punjab,(2016),148 min,7.8,"29,154",-
+979,C.R.A.Z.Y.,(2005),129 min,7.9,"32,158",-
+980,A Wednesday,(2008),104 min,8.1,"76,858",-
+981,Chak De! India,(2007),153 min,8.2,"77,956",$1.11M
+982,Dev.D,(2009),144 min,8.0,"30,016",$0.01M
+983,OMG: Oh My God!,(2012),125 min,8.1,"55,892",$0.92M
+984,Sholay,(1975),162 min,8.2,"54,104",-
+985,Airlift,(2016),130 min,8.0,"55,573",-
+986,A Night at the Opera,(1935),96 min,7.9,"32,049",$2.54M
+987,Raazi,(2018),138 min,7.8,"28,529",-
+988,Vicky Donor,(2012),126 min,7.8,"41,909",$0.17M
+989,Munna Bhai M.B.B.S.,(2003),156 min,8.1,"78,638",-
+990,"Carry On, Munna Bhai",(2006),144 min,8.1,"45,613",$2.22M
+991,Swades,(2004),189 min,8.2,"87,689",$1.22M
+992,Bhaag Milkha Bhaag,(2013),186 min,8.2,"65,392",$1.63M
+993,Paan Singh Tomar,(2012),135 min,8.2,"35,213",$0.04M
+994,The Circus,(1928),72 min,8.1,"32,594",-
+995,Kai Po Che,(2013),120 min,7.8,"35,701",$1.12M
+996,Vizontele,(2001),110 min,8.0,"35,538",-
+997,The Breath,(2009),128 min,8.0,"33,020",-
+998,English Vinglish,(2012),134 min,7.8,"35,308",$1.67M
+999,Anand,(1971),122 min,8.2,"33,043",-
