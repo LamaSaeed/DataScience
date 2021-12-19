@@ -5,9 +5,6 @@
 - Exact [data](data) I used for to create the model<br>
 - Slides for my final [presentation](imdb_rating_presentation.pdf) of the model<br>
 
-Extras: Read the [blog post](https://towardsdatascience.com/predicting-imdb-movie-ratings-using-supervised-machine-learning-f3b126ab2ddb)
-
-
 
 ## Description
 This repository contains a working model to predict IMDb ratings for a movie using features available prior to the movie's release. The model uses linear regression and features obtained through scraping movie information from IMDb using BeautifulSoup. 
