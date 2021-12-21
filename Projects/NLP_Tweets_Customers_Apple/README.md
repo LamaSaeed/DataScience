@@ -9,7 +9,7 @@ We are using the twitter data to understand the customer apple to know either if
 satisfied or not for services and products to be improvement and development their company. 
 
  ## Data
- The data is tweets for AppleCO, the size of the data is 24982 rows and 2 columns, consisting of:
+ The data is tweets for AppleCO, the size of the data is 1630 rows and 2 columns, consisting of:
 <ul>
 <li>Text: Tweets about Apple </li>
  <li>Sentiment: either positive or negative about Apple </li>
