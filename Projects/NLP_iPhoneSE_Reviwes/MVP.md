@@ -1,4 +1,4 @@
-# AutoJudge(MVP)
+#  i Phone SE(MVP)
 ## Goal :
 - The primary goal of the project is if the customer satisfied about the iphone SE for AppleCO
 
